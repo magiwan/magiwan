@@ -1,4 +1,4 @@
-var URL = "/magiwan"; //-- EDIT here 
+var URL = ""; //-- EDIT here 
 var facebookAppId = "123";
 var googleAnalyticId = "UA-11";
 var keywords = "wireless khong day giam sat GPS";
@@ -16,8 +16,6 @@ var colors = [
 colors = ['orange']
 var i = Math.floor( Math.random() * (colors.length - 0) + 0 );
 var chooseColor = colors[i].toString();
-
-
 
 
 var cssfiles = [
